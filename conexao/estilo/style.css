@@ -1,0 +1,23 @@
+body{
+  margin: 0; 
+
+    background: linear-gradient( to right, rgb(164, 120, 120) 25%, rgb(151, 197, 151) 25%, green 70%, rgb(184, 184, 157) 70%, yellow 80%, rgb(191, 191, 205) 80%, rgb(30, 30, 177) );
+  }
+
+.div1,.div2{
+  color: blueviolet;
+  background-color: #af8542;
+  position: relative;
+  top:20px;
+  left: 50%;
+}
+
+.div_espaco{
+  width: 20px;
+  height: 40px; 
+}
+.div3{
+position:relative;
+top:1px;
+
+}
